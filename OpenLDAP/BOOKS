@@ -22,7 +22,7 @@ objectClass: top
 documentTitle: Orientalism
 documentPublisher: Penguin
 
-dn: documentIdentifier= 1005", ou=books, dc=ltacademy, dc=com
+dn: documentIdentifier= 1005, ou=books, dc=ltacademy, dc=com
 objectClass: document
 objectClass: top
 documentTitle: "Nature of Statistical Learning Theory
@@ -34,7 +34,7 @@ objectClass: top
 documentTitle: Integration of the Indian States
 documentPublisher: Orient Blackswan
 
-dn: documentIdentifier= 1007", ou=books, dc=ltacademy, dc=com
+dn: documentIdentifier= 1007, ou=books, dc=ltacademy, dc=com
 objectClass: document
 objectClass: top
 documentTitle: "Drunkard's Walk

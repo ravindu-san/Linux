@@ -25,7 +25,7 @@ documentPublisher: Penguin
 dn: documentIdentifier= 1005, ou=books, dc=ltacademy, dc=com
 objectClass: document
 objectClass: top
-documentTitle: "Nature of Statistical Learning Theory
+documentTitle: Nature of Statistical Learning Theory
 documentPublisher: Springer
 
 dn: documentIdentifier=1006, ou=books, dc=ltacademy, dc=com
@@ -37,7 +37,7 @@ documentPublisher: Orient Blackswan
 dn: documentIdentifier= 1007, ou=books, dc=ltacademy, dc=com
 objectClass: document
 objectClass: top
-documentTitle: "Drunkard's Walk
+documentTitle: Drunkard's Walk
 documentPublisher: Penguin
 
 dn: documentIdentifier=1008, ou=books, dc=ltacademy, dc=com

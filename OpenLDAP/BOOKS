@@ -22,11 +22,11 @@ objectClass: top
 documentTitle: Orientalism
 documentPublisher: Penguin
 
-dn: documentIdentifier= The", ou=books, dc=ltacademy, dc=com
+dn: documentIdentifier= 1005", ou=books, dc=ltacademy, dc=com
 objectClass: document
 objectClass: top
 documentTitle: "Nature of Statistical Learning Theory
-documentPublisher: 1005,Springer
+documentPublisher: Springer
 
 dn: documentIdentifier=1006, ou=books, dc=ltacademy, dc=com
 objectClass: document
@@ -34,11 +34,11 @@ objectClass: top
 documentTitle: Integration of the Indian States
 documentPublisher: Orient Blackswan
 
-dn: documentIdentifier= The", ou=books, dc=ltacademy, dc=com
+dn: documentIdentifier= 1007", ou=books, dc=ltacademy, dc=com
 objectClass: document
 objectClass: top
 documentTitle: "Drunkard's Walk
-documentPublisher: 1007,Penguin
+documentPublisher: Penguin
 
 dn: documentIdentifier=1008, ou=books, dc=ltacademy, dc=com
 objectClass: document
